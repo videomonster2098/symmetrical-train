@@ -1,8 +1,7 @@
 services:
-  - type: web
+  - type: static
     name: videomonster-web
     env: static
     staticPublishPath: public
     buildCommand: npm run build
     branch: main
-    plan: free
