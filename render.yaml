@@ -5,3 +5,4 @@ services:
     staticPublishPath: .
     buildCommand: null
     branch: main
+
