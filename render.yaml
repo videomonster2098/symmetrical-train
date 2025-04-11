@@ -3,6 +3,6 @@ services:
     name: videomonster-web
     env: static
     staticPublishPath: .
-    buildCommand: null
+    buildCommand: ""
     branch: main
 
